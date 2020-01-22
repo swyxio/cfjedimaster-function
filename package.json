@@ -1,0 +1,20 @@
+{
+  "name": "cfjedimaster-function",
+  "version": "1.0.0",
+  "description": "a repro for raymond's issue: https://twitter.com/raymondcamden/status/1220012482925858819",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sw-yx/cfjedimaster-function.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sw-yx/cfjedimaster-function/issues"
+  },
+  "homepage": "https://github.com/sw-yx/cfjedimaster-function#readme"
+}

@@ -16,3 +16,7 @@ Netlify Dev:
 Production:
 
 ![image](https://user-images.githubusercontent.com/6764957/72911398-fef8b900-3d07-11ea-922c-93400e7f123a.png)
+
+
+Admin panel:
+![image](https://user-images.githubusercontent.com/6764957/72911500-2ea7c100-3d08-11ea-870b-055036ab961f.png)
